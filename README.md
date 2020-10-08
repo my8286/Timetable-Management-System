@@ -1,1 +1,1 @@
-# time-managment-system
+# timetable-managment-system
